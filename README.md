@@ -1,4 +1,4 @@
-# alchemy
+# Flutter Clean Architecture with GetX
 
 A new Flutter project.
 
